@@ -43,7 +43,7 @@ const resolvers = {
 // In the most basic sense, the ApolloServer can be started
 // by passing type definitions (typeDefs) and the resolvers
 // responsible for fetching the data for those types.
-const server = new ApolloServer({ typeDefs, resolvers, introspection: true});
+const server = new ApolloServer({ typeDefs, resolvers});
 // TJ: Adding "introspection: true" enables the GraphQL Playground (GraphiQL) in when node_env environment variable = "production"
 // Source:
 // https://www.apollographql.com/docs/apollo-server/v2/features/graphql-playground.html#Enabling-GraphQL-Playground-in-production
