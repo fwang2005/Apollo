@@ -16,15 +16,15 @@
 
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/t5n/Apollo.git"
+    "url": "git+https://github.com/fwang2005/Apollo.git"
   },
 
   "keywords": [],
   "author": "Fang Wang",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/t5n/Apollo/issues"
+    "url": "https://github.com/fwang2005/Apollo/issues"
   },
-  "homepage": "https://github.com/t5n/Apollo#readme"
+  "homepage": "https://github.com/fwang2005/Apollo#readme"
 
 }
